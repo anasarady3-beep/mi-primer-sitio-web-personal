@@ -106,5 +106,15 @@ body {
     margin: 0 auto; /* Centra el contenido en la página */
     padding: 20px;
 }
+/* Estilos para que los ÍCONOS se vean grandes y separados */
+.redes-sociales i {
+    font-size: 24px; /* Tamaño del ícono */
+    margin: 0 10px;  /* Espacio entre íconos */
+    color: #444; /* Color inicial gris oscuro */
+}
+
+.redes-sociales a:hover i {
+    color: #007bff; /* Color azul al pasar el ratón */
+}
 
 
